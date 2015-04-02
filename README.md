@@ -1,2 +1,4 @@
 # hello-world
-First one, just learning
+
+Jeff here.  Just learning Github.  Largely a Microsoft developer, well versed in C# and VB.NET, services and architecture.
+
